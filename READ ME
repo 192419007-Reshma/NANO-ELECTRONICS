@@ -1,9 +1,0 @@
-echo "# NANO-ELECTRONICS" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/192419007-Reshma/NANO-ELECTRONICS.git
-git push -u origin main
-
-
